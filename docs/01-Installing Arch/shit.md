@@ -17,3 +17,4 @@ This template provides a complete foundation for documentation sites with:
 - ⚡ **Automated Build Pipeline** with YAML-based configuration and pre-build automation
 - 🧩 **Data-Driven Components** for portfolios, projects, and CV displays
 - 🔧 **Developer Experience** with ESLint, Prettier, and comprehensive quality gates
+we be ballin
